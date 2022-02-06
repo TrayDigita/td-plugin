@@ -2,7 +2,6 @@
 *.lock
 .DS_Store
 *.lnk
-*.json
 *.js
 vendor/
 node_modules/
