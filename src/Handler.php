@@ -98,7 +98,7 @@ class Handler
                     'install' => $link,
                 ];
             } else {
-                $actions = ['unavailable' => __('Package not available', 'tray-digital')];
+                $actions = ['unavailable' => __('Package not available', 'tray-digita')];
             }
         }
 
